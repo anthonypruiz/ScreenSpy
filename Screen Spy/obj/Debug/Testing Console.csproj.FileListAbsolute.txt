@@ -1,0 +1,9 @@
+C:\Users\Antho\Dropbox\1Laptop Share\Testing Console\Testing Console\bin\Debug\System.Drawing.Common.dll
+C:\Users\Antho\Dropbox\1Laptop Share\Testing Console\Testing Console\obj\Debug\Testing Console.csproj.CoreCompileInputs.cache
+C:\Users\Antho\Dropbox\1Laptop Share\Testing Console\Testing Console\obj\Debug\Testing Console.csproj.CopyComplete
+C:\Users\Antho\Dropbox\1Laptop Share\Testing Console\Testing Console\obj\Debug\Testing Console.csprojAssemblyReference.cache
+C:\Users\Antho\Dropbox\1Laptop Share\Testing Console\Testing Console\bin\Debug\SShots.exe.config
+C:\Users\Antho\Dropbox\1Laptop Share\Testing Console\Testing Console\bin\Debug\SShots.exe
+C:\Users\Antho\Dropbox\1Laptop Share\Testing Console\Testing Console\bin\Debug\SShots.pdb
+C:\Users\Antho\Dropbox\1Laptop Share\Testing Console\Testing Console\obj\Debug\SShots.exe
+C:\Users\Antho\Dropbox\1Laptop Share\Testing Console\Testing Console\obj\Debug\SShots.pdb

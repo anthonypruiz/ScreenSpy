@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ScreenSpy" GeneratedClassName="Config">
+  <Profiles />
+  <Settings>
+    <Setting Name="ImageWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">960</Value>
+    </Setting>
+    <Setting Name="ImageHeight" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">540</Value>
+    </Setting>
+    <Setting Name="Endcoder" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="ProgramDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\ScreenShots</Value>
+    </Setting>
+    <Setting Name="DuplicateImgSensitivity" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1045000</Value>
+    </Setting>
+    <Setting Name="CaptureFrequency" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="ColorPicture" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,71 @@
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyComplete\Screen Spy\bin\Debug\SpyImgSlider.exe.config
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyComplete\Screen Spy\bin\Debug\SpyImgSlider.exe
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyComplete\Screen Spy\bin\Debug\SpyImgSlider.pdb
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyComplete\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csprojAssemblyReference.cache
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyComplete\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.Form1.resources
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyComplete\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.Properties.Resources.resources
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyComplete\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csproj.GenerateResource.cache
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyComplete\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csproj.CoreCompileInputs.cache
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyComplete\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.exe
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyComplete\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.pdb
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\Screen Spy\bin\Debug\SpyImgSlider.exe.config
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\Screen Spy\bin\Debug\SpyImgSlider.exe
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\Screen Spy\bin\Debug\SpyImgSlider.pdb
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csprojAssemblyReference.cache
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.Form1.resources
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.Properties.Resources.resources
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csproj.GenerateResource.cache
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csproj.CoreCompileInputs.cache
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.exe
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.pdb
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\Screen Spy\bin\Debug\x86\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\Screen Spy\bin\Debug\x64\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\Screen Spy\bin\Debug\SpyImgSlider.exe.config
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\Screen Spy\bin\Debug\SpyImgSlider.exe
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\Screen Spy\bin\Debug\SpyImgSlider.pdb
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csprojAssemblyReference.cache
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.Form1.resources
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.Properties.Resources.resources
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csproj.GenerateResource.cache
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csproj.CoreCompileInputs.cache
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csproj.CopyComplete
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.exe
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.pdb
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\Screen Spy\bin\Debug\x86\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\Screen Spy\bin\Debug\x64\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\Screen Spy\bin\Debug\SpyImgSlider.exe.config
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\Screen Spy\bin\Debug\SpyImgSlider.exe
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\Screen Spy\bin\Debug\SpyImgSlider.pdb
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csprojAssemblyReference.cache
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.Form1.resources
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.Properties.Resources.resources
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csproj.GenerateResource.cache
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csproj.CoreCompileInputs.cache
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csproj.CopyComplete
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.exe
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.pdb
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\Screen Spy\bin\Debug\x86\sqlite3.dll
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\Screen Spy\bin\Debug\x64\sqlite3.dll
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\Screen Spy\bin\Debug\SpyImgSlider.exe.config
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\Screen Spy\bin\Debug\SpyImgSlider.exe
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\Screen Spy\bin\Debug\SpyImgSlider.pdb
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csprojAssemblyReference.cache
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.Form1.resources
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.Properties.Resources.resources
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csproj.GenerateResource.cache
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csproj.CoreCompileInputs.cache
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csproj.CopyComplete
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.exe
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.pdb
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\Screen Spy\bin\Debug\x86\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\Screen Spy\bin\Debug\x64\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\Screen Spy\bin\Debug\SpyImgSlider.exe.config
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\Screen Spy\bin\Debug\SpyImgSlider.exe
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\Screen Spy\bin\Debug\SpyImgSlider.pdb
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.Form1.resources
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.Properties.Resources.resources
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csproj.GenerateResource.cache
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csproj.CopyComplete
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.exe
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.pdb
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\SpyImgSlider\ImageSliderV2\obj\Debug\SpyImgSlider.csprojAssemblyReference.cache

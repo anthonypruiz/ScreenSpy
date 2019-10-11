@@ -1,0 +1,115 @@
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csprojAssemblyReference.cache
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.Properties.Resources.resources
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.GenerateResource.cache
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CoreCompileInputs.cache
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy\Screen Spy\bin\Debug\ScreenSpyConfig.exe.config
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy\Screen Spy\bin\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy\Screen Spy\bin\Debug\ScreenSpyConfig.pdb
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CopyComplete
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.pdb
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy\ScreenSpyConfig\obj\Debug\ScreenSpy.Form1.resources
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy\ScreenSpyConfig\obj\Debug\ScreenSpy.Properties.Resources.resources
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy - Copy\Screen Spy\bin\Debug\x86\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy - Copy\Screen Spy\bin\Debug\x64\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy - Copy\Screen Spy\bin\Debug\ScreenSpyConfig.exe.config
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy - Copy\Screen Spy\bin\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy - Copy\Screen Spy\bin\Debug\ScreenSpyConfig.pdb
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy - Copy\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csprojAssemblyReference.cache
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy - Copy\ScreenSpyConfig\obj\Debug\ScreenSpy.Form1.resources
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy - Copy\ScreenSpyConfig\obj\Debug\ScreenSpy.Properties.Resources.resources
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy - Copy\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.GenerateResource.cache
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy - Copy\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CoreCompileInputs.cache
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy - Copy\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CopyComplete
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy - Copy\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpy - Copy\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.pdb
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyOriginal - Copy (2)\ScreenSpyComplete\Screen Spy\bin\Debug\x86\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyOriginal - Copy (2)\ScreenSpyComplete\Screen Spy\bin\Debug\x64\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyOriginal - Copy (2)\ScreenSpyComplete\Screen Spy\bin\Debug\ScreenSpyConfig.exe.config
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyOriginal - Copy (2)\ScreenSpyComplete\Screen Spy\bin\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyOriginal - Copy (2)\ScreenSpyComplete\Screen Spy\bin\Debug\ScreenSpyConfig.pdb
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyOriginal - Copy (2)\ScreenSpyComplete\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csprojAssemblyReference.cache
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyOriginal - Copy (2)\ScreenSpyComplete\ScreenSpyConfig\obj\Debug\ScreenSpy.Form1.resources
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyOriginal - Copy (2)\ScreenSpyComplete\ScreenSpyConfig\obj\Debug\ScreenSpy.Properties.Resources.resources
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyOriginal - Copy (2)\ScreenSpyComplete\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.GenerateResource.cache
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyOriginal - Copy (2)\ScreenSpyComplete\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CoreCompileInputs.cache
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyOriginal - Copy (2)\ScreenSpyComplete\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CopyComplete
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyOriginal - Copy (2)\ScreenSpyComplete\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\OneDrive\Desktop\working\ScreenSpyOriginal - Copy (2)\ScreenSpyComplete\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.pdb
+C:\Users\Antho\source\repos\ScreenSpyWork\Screen Spy\bin\Debug\x86\sqlite3.dll
+C:\Users\Antho\source\repos\ScreenSpyWork\Screen Spy\bin\Debug\x64\sqlite3.dll
+C:\Users\Antho\source\repos\ScreenSpyWork\Screen Spy\bin\Debug\ScreenSpyConfig.exe.config
+C:\Users\Antho\source\repos\ScreenSpyWork\Screen Spy\bin\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\source\repos\ScreenSpyWork\Screen Spy\bin\Debug\ScreenSpyConfig.pdb
+C:\Users\Antho\source\repos\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csprojAssemblyReference.cache
+C:\Users\Antho\source\repos\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpy.Form1.resources
+C:\Users\Antho\source\repos\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpy.Properties.Resources.resources
+C:\Users\Antho\source\repos\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.GenerateResource.cache
+C:\Users\Antho\source\repos\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CoreCompileInputs.cache
+C:\Users\Antho\source\repos\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CopyComplete
+C:\Users\Antho\source\repos\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\source\repos\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.pdb
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\Screen Spy\bin\Debug\x86\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\Screen Spy\bin\Debug\x64\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\Screen Spy\bin\Debug\ScreenSpyConfig.exe.config
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\Screen Spy\bin\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\Screen Spy\bin\Debug\ScreenSpyConfig.pdb
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csprojAssemblyReference.cache
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpy.Form1.resources
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpy.Properties.Resources.resources
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.GenerateResource.cache
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CoreCompileInputs.cache
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CopyComplete
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\OneDrive\Desktop\Spy\ScreenSpyWork\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.pdb
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\Screen Spy\bin\Debug\x86\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\Screen Spy\bin\Debug\x64\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\Screen Spy\bin\Debug\ScreenSpyConfig.exe.config
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\Screen Spy\bin\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\Screen Spy\bin\Debug\ScreenSpyConfig.pdb
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csprojAssemblyReference.cache
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\ScreenSpyConfig\obj\Debug\ScreenSpy.Form1.resources
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\ScreenSpyConfig\obj\Debug\ScreenSpy.Properties.Resources.resources
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.GenerateResource.cache
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CoreCompileInputs.cache
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CopyComplete
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\OneDrive\Desktop\working\ImageSlider\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.pdb
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\Screen Spy\bin\Debug\x86\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\Screen Spy\bin\Debug\x64\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\Screen Spy\bin\Debug\ScreenSpyConfig.exe.config
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\Screen Spy\bin\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\Screen Spy\bin\Debug\ScreenSpyConfig.pdb
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csprojAssemblyReference.cache
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpy.Form1.resources
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpy.Properties.Resources.resources
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.GenerateResource.cache
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CoreCompileInputs.cache
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CopyComplete
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\OneDrive\Desktop\Version3\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.pdb
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\Screen Spy\bin\Debug\x86\sqlite3.dll
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\Screen Spy\bin\Debug\x64\sqlite3.dll
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\Screen Spy\bin\Debug\ScreenSpyConfig.exe.config
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\Screen Spy\bin\Debug\ScreenSpyConfig.exe
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\Screen Spy\bin\Debug\ScreenSpyConfig.pdb
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csprojAssemblyReference.cache
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpy.Form1.resources
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpy.Properties.Resources.resources
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.GenerateResource.cache
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CoreCompileInputs.cache
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CopyComplete
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.exe
+\\DESKTOP-80SD66E\computerAR\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.pdb
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\Screen Spy\bin\Debug\x86\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\Screen Spy\bin\Debug\x64\sqlite3.dll
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\Screen Spy\bin\Debug\ScreenSpyConfig.exe.config
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\Screen Spy\bin\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\Screen Spy\bin\Debug\ScreenSpyConfig.pdb
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csprojAssemblyReference.cache
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpy.Form1.resources
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpy.Properties.Resources.resources
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.GenerateResource.cache
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.csproj.CopyComplete
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.exe
+C:\Users\Antho\OneDrive\Desktop\ScreenSpyV3\ImageSliderRevision\ScreenSpyConfig\obj\Debug\ScreenSpyConfig.pdb
